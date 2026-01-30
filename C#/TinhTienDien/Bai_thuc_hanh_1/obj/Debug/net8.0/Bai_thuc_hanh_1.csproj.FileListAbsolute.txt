@@ -1,0 +1,14 @@
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net8.0\Bai_thuc_hanh_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net8.0\Bai_thuc_hanh_1.AssemblyInfoInputs.cache
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net8.0\Bai_thuc_hanh_1.AssemblyInfo.cs
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net8.0\Bai_thuc_hanh_1.csproj.CoreCompileInputs.cache
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net8.0\Bai_thuc_hanh_1.exe
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net8.0\Bai_thuc_hanh_1.deps.json
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net8.0\Bai_thuc_hanh_1.runtimeconfig.json
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net8.0\Bai_thuc_hanh_1.dll
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net8.0\Bai_thuc_hanh_1.pdb
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net8.0\Bai_thuc_hanh_1.dll
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net8.0\refint\Bai_thuc_hanh_1.dll
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net8.0\Bai_thuc_hanh_1.pdb
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net8.0\Bai_thuc_hanh_1.genruntimeconfig.cache
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net8.0\ref\Bai_thuc_hanh_1.dll

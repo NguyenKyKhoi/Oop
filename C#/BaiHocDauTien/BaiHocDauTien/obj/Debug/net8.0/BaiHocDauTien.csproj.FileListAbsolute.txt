@@ -1,0 +1,14 @@
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\bin\Debug\net8.0\BaiHocDauTien.exe
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\bin\Debug\net8.0\BaiHocDauTien.deps.json
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\bin\Debug\net8.0\BaiHocDauTien.runtimeconfig.json
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\bin\Debug\net8.0\BaiHocDauTien.dll
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\bin\Debug\net8.0\BaiHocDauTien.pdb
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\obj\Debug\net8.0\BaiHocDauTien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\obj\Debug\net8.0\BaiHocDauTien.AssemblyInfoInputs.cache
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\obj\Debug\net8.0\BaiHocDauTien.AssemblyInfo.cs
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\obj\Debug\net8.0\BaiHocDauTien.csproj.CoreCompileInputs.cache
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\obj\Debug\net8.0\BaiHocDauTien.dll
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\obj\Debug\net8.0\refint\BaiHocDauTien.dll
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\obj\Debug\net8.0\BaiHocDauTien.pdb
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\obj\Debug\net8.0\BaiHocDauTien.genruntimeconfig.cache
+D:\Năm_3_Kỳ_2\Lập Trình Hướng Đối Tượng\C#\BaiHocDauTien\BaiHocDauTien\obj\Debug\net8.0\ref\BaiHocDauTien.dll
