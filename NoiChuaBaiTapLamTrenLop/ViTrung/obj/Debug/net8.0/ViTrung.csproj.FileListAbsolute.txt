@@ -1,0 +1,15 @@
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\bin\Debug\net8.0\ViTrung.exe
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\bin\Debug\net8.0\ViTrung.deps.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\bin\Debug\net8.0\ViTrung.runtimeconfig.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\bin\Debug\net8.0\ViTrung.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\bin\Debug\net8.0\ViTrung.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\obj\Debug\net8.0\ViTrung.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\obj\Debug\net8.0\ViTrung.AssemblyInfoInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\obj\Debug\net8.0\ViTrung.AssemblyInfo.cs
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\obj\Debug\net8.0\ViTrung.csproj.CoreCompileInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\obj\Debug\net8.0\ViTrung.sourcelink.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\obj\Debug\net8.0\ViTrung.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\obj\Debug\net8.0\refint\ViTrung.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\obj\Debug\net8.0\ViTrung.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\obj\Debug\net8.0\ViTrung.genruntimeconfig.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\ViTrung\obj\Debug\net8.0\ref\ViTrung.dll

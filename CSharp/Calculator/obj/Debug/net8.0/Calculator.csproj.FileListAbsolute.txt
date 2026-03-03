@@ -1,0 +1,15 @@
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Calculator\obj\Debug\net8.0\ref\Calculator.dll

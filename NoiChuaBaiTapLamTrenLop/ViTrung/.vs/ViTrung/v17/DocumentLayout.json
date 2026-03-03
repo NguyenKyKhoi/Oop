@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\ViTrung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F96396-645D-44E5-B4FC-BDE733B3EC35}|ViTrung.csproj|d:\\nam3_ky2\\lap_trinh_huong_doi_tuong\\noichuabaitaplamtrenlop\\vitrung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F96396-645D-44E5-B4FC-BDE733B3EC35}|ViTrung.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\ViTrung\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\ViTrung\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T02:31:22.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

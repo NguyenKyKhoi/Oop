@@ -1,0 +1,15 @@
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\bin\Debug\net8.0\Huongdoituong_SinhVien.exe
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\bin\Debug\net8.0\Huongdoituong_SinhVien.deps.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\bin\Debug\net8.0\Huongdoituong_SinhVien.runtimeconfig.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\bin\Debug\net8.0\Huongdoituong_SinhVien.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\bin\Debug\net8.0\Huongdoituong_SinhVien.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\obj\Debug\net8.0\Huongdoituong_SinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\obj\Debug\net8.0\Huongdoituong_SinhVien.AssemblyInfoInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\obj\Debug\net8.0\Huongdoituong_SinhVien.AssemblyInfo.cs
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\obj\Debug\net8.0\Huongdoituong_SinhVien.csproj.CoreCompileInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\obj\Debug\net8.0\Huongdoituong_SinhVien.sourcelink.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\obj\Debug\net8.0\Huongdoituong_SinhVien.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\obj\Debug\net8.0\refint\Huongdoituong_SinhVien.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\obj\Debug\net8.0\Huongdoituong_SinhVien.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\obj\Debug\net8.0\Huongdoituong_SinhVien.genruntimeconfig.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\Huongdoituong_SinhVien\obj\Debug\net8.0\ref\Huongdoituong_SinhVien.dll

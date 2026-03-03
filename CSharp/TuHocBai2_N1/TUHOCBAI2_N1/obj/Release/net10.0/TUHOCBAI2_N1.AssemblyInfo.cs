@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TUHOCBAI2_N1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a129faca9e2641d15843f55aedfb487d11cc622c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be222010276afeb353cdd5379e9adf5fcb1c6f6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TUHOCBAI2_N1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TUHOCBAI2_N1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
