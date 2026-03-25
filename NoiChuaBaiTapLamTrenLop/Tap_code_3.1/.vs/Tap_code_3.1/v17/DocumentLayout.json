@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\Tap_code_3.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{391409C5-4989-49E3-B433-7589A59248D0}|Tap_code_3.1.csproj|d:\\nam3_ky2\\lap_trinh_huong_doi_tuong\\noichuabaitaplamtrenlop\\tap_code_3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391409C5-4989-49E3-B433-7589A59248D0}|Tap_code_3.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\AppData\\Local\\Temp\\Zalo Temp\\TempDownloads\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\AppData\\Local\\Temp\\Zalo Temp\\TempDownloads\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\AppData\\Local\\Temp\\Zalo Temp\\TempDownloads\\Program.cs [Read Only]",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:06:41.526Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\Tap_code_3.1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\Tap_code_3.1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAmwN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:47:37.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

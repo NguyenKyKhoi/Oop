@@ -1,0 +1,15 @@
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\bin\Debug\net8.0\Demau_giuky.exe
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\bin\Debug\net8.0\Demau_giuky.deps.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\bin\Debug\net8.0\Demau_giuky.runtimeconfig.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\bin\Debug\net8.0\Demau_giuky.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\bin\Debug\net8.0\Demau_giuky.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\obj\Debug\net8.0\Demau_giuky.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\obj\Debug\net8.0\Demau_giuky.AssemblyInfoInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\obj\Debug\net8.0\Demau_giuky.AssemblyInfo.cs
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\obj\Debug\net8.0\Demau_giuky.csproj.CoreCompileInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\obj\Debug\net8.0\Demau_giuky.sourcelink.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\obj\Debug\net8.0\Demau_giuky.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\obj\Debug\net8.0\refint\Demau_giuky.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\obj\Debug\net8.0\Demau_giuky.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\obj\Debug\net8.0\Demau_giuky.genruntimeconfig.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\NoiChuaBaiTapLamTrenLop\Demau_giuky\Demau_giuky\obj\Debug\net8.0\ref\Demau_giuky.dll
