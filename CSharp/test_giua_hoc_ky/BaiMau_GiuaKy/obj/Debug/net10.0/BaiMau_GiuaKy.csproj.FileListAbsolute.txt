@@ -1,0 +1,15 @@
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\bin\Debug\net10.0\BaiMau_GiuaKy.exe
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\bin\Debug\net10.0\BaiMau_GiuaKy.deps.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\bin\Debug\net10.0\BaiMau_GiuaKy.runtimeconfig.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\bin\Debug\net10.0\BaiMau_GiuaKy.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\bin\Debug\net10.0\BaiMau_GiuaKy.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\obj\Debug\net10.0\BaiMau_GiuaKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\obj\Debug\net10.0\BaiMau_GiuaKy.AssemblyInfoInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\obj\Debug\net10.0\BaiMau_GiuaKy.AssemblyInfo.cs
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\obj\Debug\net10.0\BaiMau_GiuaKy.csproj.CoreCompileInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\obj\Debug\net10.0\BaiMau_GiuaKy.sourcelink.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\obj\Debug\net10.0\BaiMau_GiuaKy.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\obj\Debug\net10.0\refint\BaiMau_GiuaKy.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\obj\Debug\net10.0\BaiMau_GiuaKy.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\obj\Debug\net10.0\BaiMau_GiuaKy.genruntimeconfig.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\test_giua_hoc_ky\BaiMau_GiuaKy\obj\Debug\net10.0\ref\BaiMau_GiuaKy.dll

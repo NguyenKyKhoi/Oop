@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BaiMau_GiuaKy/1.0.0": {
+        "runtime": {
+          "BaiMau_GiuaKy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiMau_GiuaKy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

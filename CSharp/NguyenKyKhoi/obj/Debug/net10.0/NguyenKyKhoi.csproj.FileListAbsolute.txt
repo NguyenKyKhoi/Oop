@@ -1,0 +1,15 @@
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\bin\Debug\net10.0\NguyenKyKhoi.exe
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\bin\Debug\net10.0\NguyenKyKhoi.deps.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\bin\Debug\net10.0\NguyenKyKhoi.runtimeconfig.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\bin\Debug\net10.0\NguyenKyKhoi.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\bin\Debug\net10.0\NguyenKyKhoi.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\obj\Debug\net10.0\NguyenKyKhoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\obj\Debug\net10.0\NguyenKyKhoi.AssemblyInfoInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\obj\Debug\net10.0\NguyenKyKhoi.AssemblyInfo.cs
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\obj\Debug\net10.0\NguyenKyKhoi.csproj.CoreCompileInputs.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\obj\Debug\net10.0\NguyenKyKhoi.sourcelink.json
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\obj\Debug\net10.0\NguyenKyKhoi.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\obj\Debug\net10.0\refint\NguyenKyKhoi.dll
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\obj\Debug\net10.0\NguyenKyKhoi.pdb
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\obj\Debug\net10.0\NguyenKyKhoi.genruntimeconfig.cache
+D:\Nam3_Ky2\LAP_TRINH_HUONG_DOI_TUONG\CSharp\NguyenKyKhoi\obj\Debug\net10.0\ref\NguyenKyKhoi.dll

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{71C69DC1-9D1A-45D8-85CA-1B69D2FBB0BE}|Xe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\Demau_giuky\\Demau_giuky\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\AppData\\Local\\Temp\\Zalo Temp\\TempDownloads\\Program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +22,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\Demau_giuky\\Demau_giuky\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Demau_giuky\\Demau_giuky\\Program.cs",
-              "ToolTip": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\Demau_giuky\\Demau_giuky\\Program.cs",
-              "RelativeToolTip": "..\\Demau_giuky\\Demau_giuky\\Program.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAAAHwAAAAYAAAAAAAAAA==",
+              "Title": "Program (1).cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\AppData\\Local\\Temp\\Zalo Temp\\TempDownloads\\Program (1).cs",
+              "ToolTip": "C:\\Users\\Dell\\AppData\\Local\\Temp\\Zalo Temp\\TempDownloads\\Program (1).cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T00:49:59.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T02:02:03.077Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
@@ -38,9 +36,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\Xe\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\Xe\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAmwJsAAAANAAAAAAAAAA==",
+              "ToolTip": "D:\\Nam3_Ky2\\LAP_TRINH_HUONG_DOI_TUONG\\NoiChuaBaiTapLamTrenLop\\Xe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T00:40:07.548Z",
               "EditorCaption": ""
